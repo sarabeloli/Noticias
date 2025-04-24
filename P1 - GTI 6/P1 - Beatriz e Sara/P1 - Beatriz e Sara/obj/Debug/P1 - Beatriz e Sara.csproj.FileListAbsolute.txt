@@ -1,0 +1,40 @@
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1___Beatriz_e_Sara.Form1.resources
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1___Beatriz_e_Sara.Properties.Resources.resources
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.GenerateResource.cache
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.exe.config
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.exe
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.pdb
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.exe
+C:\Users\Alunos\Documents\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.pdb
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.exe.config
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.exe
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.pdb
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.AssemblyReference.cache
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1___Beatriz_e_Sara.Form1.resources
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1___Beatriz_e_Sara.Properties.Resources.resources
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.GenerateResource.cache
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.exe
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.pdb
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.exe.config
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.exe
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.pdb
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.AssemblyReference.cache
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1___Beatriz_e_Sara.Form1.resources
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1___Beatriz_e_Sara.Properties.Resources.resources
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.GenerateResource.cache
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.exe
+C:\Users\beatr\OneDrive\Documentos\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.pdb
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.exe.config
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.exe
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\bin\Debug\P1 - Beatriz e Sara.pdb
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.AssemblyReference.cache
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1___Beatriz_e_Sara.Form1.resources
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1___Beatriz_e_Sara.Properties.Resources.resources
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.GenerateResource.cache
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.exe
+C:\Users\Sara\Downloads\P1 - GTI 6 1\P1 - GTI 6 1\P1 - GTI 6\P1 - Beatriz e Sara\P1 - Beatriz e Sara\obj\Debug\P1 - Beatriz e Sara.pdb
